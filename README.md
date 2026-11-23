@@ -1,5 +1,5 @@
 # IIS-Assignment2
-
+Repository link: https://github.com/kellanpatel/IIS-Assignment2/tree/main
 
 Project status and technology
 - Developed: A PowerPoint walkthrough simulating a phone recommendation interface. PowerPoint displays the screens and hyperlinks between them connect preferences, shortlists, phone details and confirmation screens.
